@@ -1,10 +1,14 @@
+<a target="_blank" href="https://colab.research.google.com/github/petertheprocess/StudentInsuranceZurich/blob/main/zurich_insurance.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Useful Info 
 [Health Insurance tips from ETHz website](https://ethz.ch/en/studies/international/after-arrival/health-insurance/nicht-eu.html)
 
 # Listed Products by 2024/08/01
-StudyProtect https://www.studyprotect.com/en/studentcover-swiss-zone/
-SwissCare HMIE https://swisscare.com/en/product/international-student-health-insurance-switzerland
-SWICA StudentCare https://www.swica.ch/en/private/insurance/special-insurance/student-insurance
+[StudyProtect ](https://www.studyprotect.com/en/studentcover-swiss-zone/)
+[SwissCare HMIE ](https://swisscare.com/en/product/international-student-health-insurance-switzerland)
+[SWICA StudentCare ](https://www.swica.ch/en/private/insurance/special-insurance/student-insurance)
 
 
 # Disclaimer
