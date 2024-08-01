@@ -6,7 +6,7 @@
 [Health Insurance tips from ETHz website](https://ethz.ch/en/studies/international/after-arrival/health-insurance/nicht-eu.html)
 
 # Listed Products by 2024/08/01
-[StudyProtect ](https://www.studyprotect.com/en/studentcover-swiss-zone/)
+~~[StudyProtect ](https://www.studyprotect.com/en/studentcover-swiss-zone/)~~ : Currently this product is not yet accredited by the canton of Zurich, so student in Zurich cannot subscribe this.
 
 [SwissCare HMIE ](https://swisscare.com/en/product/international-student-health-insurance-switzerland)
 
