@@ -2,6 +2,9 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+[![Static Badge](https://img.shields.io/badge/plot_is_here-blue)
+](https://petertheprocess.github.io/StudentInsuranceZurich/insurance_comparison.html) 
+
 # Useful Info 
 [Health Insurance tips from ETHz website](https://ethz.ch/en/studies/international/after-arrival/health-insurance/nicht-eu.html)
 
