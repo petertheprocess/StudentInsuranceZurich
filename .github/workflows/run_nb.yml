@@ -28,10 +28,6 @@ jobs:
           jupyter nbconvert --to notebook --execute --inplace *.ipynb
           mkdir -p docs
 
-      - name: Move HTML file
-        run: |
-          mv ./insurance_comparison.html ./docs/insurance_comparison.html
-
       - name: Commit and Push HTML file
         run: |
           git config --global user.name "github-actions[bot]"
